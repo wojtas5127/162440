@@ -1,0 +1,21 @@
+Wizja: Stworzenie aplikacji webowej z restauracjami typu kebab w polskich miastach. Aplikacja będzie zawierać lokalizacje restauracji, ich oceny, 
+       komentarze użytkowników z możliwością dodania zdjęcia
+Wartość biznesowa: Zarobek z reklam w darmowej aplikacji. Kebaby cieszą się sporym zainteresowaniem, więc o użytkowników aplikacji nie będzie trudno. 
+		   Ponadto aplikacja ma potencjał do użytku przez turystów, którzy nie znają miasta a chcieliby dobrze się pożywić
+Zakres: Lokalizacje kebabów w większych miastach polskich. Aplikacja będzie korzystać z map Google, będzie posiadała moduł rejestracji i logowania użytkownika
+	a także moduł ocen i komentarzy. W aplikacji użytkownik będzie mógł zgłosić kebab który nie widnieje w bazie danych lub zgłosić zamknięcie lokalu.
+	Czas na wykonanie: 4 miesiące
+Role w zespole:
+	Kierownik zespołu - Maciej Rutkowski
+	Analityk wymagań - Krystyna Jantar
+	FrontEnd - Krzysztof Korytowicz
+	BackEnd - Wojciech Mokrodolski
+	Tester - Piotr Bogdan
+Wskaźnik postępu:
+	Kamienie milowe:
+	1. Stworzenie szkiletu strony
+	2. Stworzenie interfejsu aplikacji
+	3. Stworzenie bazy danych i umieszczenie jej w chmurze
+	4. Umieszczenie aplikacji na serwerze testowym
+	5. Testowanie aplikacji pod względem funkcjonalności, szukanie potencjalnych błędów
+	6. Oficjalna premiera aplikacji
