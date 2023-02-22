@@ -1,0 +1,4 @@
+Analiza zespołu
+Budżet(czas) - 3h dziennie, czas na wykonanie: 4 miesiące
+Cel projektu: aplikacja webowa - mapa kebabów
+Role w zespole: Kierownik zespołu, Analityk wymagań,  FrontEnd, BackEnd, Tester, 
